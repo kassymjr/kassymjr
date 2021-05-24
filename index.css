@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	height: 100%;
+}
+div{
+	background-color: white;
+	margin-right: 65%;
+	margin-left:10%;
+	margin-top: 1%;
+}
+ul li{
+	text-decoration-style: none;
+}
+.historique{
+	background-color: white;
+	margin-right: 10%;
+	margin-left:60%;
+	margin-top: -44.1%;
+}
